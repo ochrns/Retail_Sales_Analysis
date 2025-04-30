@@ -1,4 +1,4 @@
-# Retail_Sales_Analysis
+# Retail Sales Analysis
 Analysis focused on examining retail sales data for chip products, conducted as part of a job simulation for a supermarket chain
 # Data Preparation & Customer Analytics
 * Data Cleaning: Prepared 2 datasets and merged relevant columns for analysis.
