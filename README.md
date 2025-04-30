@@ -4,15 +4,16 @@ Analysis focused on examining retail sales data for chip products, conducted as 
 1. Data Cleaning: Prepared 2 datasets and merged relevant columns for analysis.
 2. Customer Segmentation: Identified core segments driving chip sales.
 3. Category Preference: Assessed chip brand and size preference across segments.
-    * Average Purchase Frequency by Lifestage and Customer Segment
+   *Average Purchase Frequency by Lifestage and Customer Segment
 
  <img width="847" alt="Screenshot 2025-04-30 at 18 22 41" src="https://github.com/user-attachments/assets/4907ec7f-e4d5-4efe-9cb6-234423b037d9" />
 
-     * The Top3 customer segments driving sales are Older Families (Budget),  Retirees (Mainstream), and Young singles/couples (Mainstream).
+     
+   # The Top3 customer segments driving sales are Older Families (Budget),  Retirees (Mainstream), and Young singles/couples (Mainstream).
 
 <img width="1024" alt="Screenshot 2025-04-30 at 18 39 22" src="https://github.com/user-attachments/assets/0b8f4cda-6ca1-4986-8943-e325f157d5b3" />
 
-    * Sales in the  Retirees (Mainstream) and Young singles/couples (Mainstream) segments are primarily driven by the large number of customers in these groups.
+    Sales in the  Retirees (Mainstream) and Young singles/couples (Mainstream) segments are primarily driven by the large number of customers in these groups.
 This is evident from their high representation — Retirees (Mainstream: 8.92%) and Young singles/couples (Mainstream: 11.11%) form the largest customer bases.
 Their size alone contributes significantly to overall sales, even if their per-customer purchase rate is average.
 In contrast:
