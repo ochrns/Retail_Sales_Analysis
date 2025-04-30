@@ -26,7 +26,7 @@ Budget Older Families are smaller in number (6.47%) but compensate through highe
 
 <img width="843" alt="Screenshot 2025-04-30 at 18 25 05" src="https://github.com/user-attachments/assets/227bc89e-8c9d-409a-9a68-edce23a67a84" />
 
-5. Preferred Brands: Kettle, Smith, Pringles, Doritos
+5. Preferred Brands: Kettle, Smith, Doritos, Pringles
 
 <img width="836" alt="Screenshot 2025-04-30 at 19 25 08" src="https://github.com/user-attachments/assets/cd75842b-8b18-4dc7-aeda-aba1b8238796" />
 
