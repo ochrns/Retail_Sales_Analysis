@@ -28,7 +28,9 @@ Budget Older Families are smaller in number (6.47%) but compensate through highe
 
 5. Preferred Brands: Kettle, Smith, Pringles, Doritos
 
-<img width="823" alt="Screenshot 2025-04-30 at 18 22 14" src="https://github.com/user-attachments/assets/7b5f3175-3d6b-4cad-a4cd-a14e1eb012e6" />
+<img width="836" alt="Screenshot 2025-04-30 at 19 25 08" src="https://github.com/user-attachments/assets/cd75842b-8b18-4dc7-aeda-aba1b8238796" />
+
+
 
 6. The 175g package dominates sales at 26.9%, followed by 150g at 16.0%, 134g at 9.8%, 110g at 9.0%, and 170g at 8.1%. 
 Smaller sizes (125g and below) contribute negligibly, with sales below 1.4%. 
